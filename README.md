@@ -122,10 +122,6 @@ The Power BI report combines executive KPIs, location comparisons, examination o
 - **Fitness classification breakdown** to monitor assessment outcomes.
 - **Monthly activity trend** to examine consultation patterns.
 
-**[Open the Power BI project (.pbix)](Occupational_Medical_Examinations.pbix)**
-
-*Open the `.pbix` file in Microsoft Power BI Desktop to explore the interactive report.*
-
 ---
 
 ## 🔍 7. Insights & Conclusions
